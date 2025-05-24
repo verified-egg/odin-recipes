@@ -1,1 +1,1 @@
-# odin-recipes
+This is a collection of recipes to practice skills in HTML and CSS, following the Odin Project lesson plan.
